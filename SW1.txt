@@ -1,0 +1,2 @@
+vlan nativa 99
+vlan 10,20,30
